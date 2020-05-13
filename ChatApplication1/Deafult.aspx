@@ -80,18 +80,7 @@
             recognition.onerror = function (event) {
                 txtMessage.value = 'Error occured in recognition:' + event.error;
             }
-
             });
-
-
-
-
-
-
     </script>
-
-
-
-
 </body>
 </html>
