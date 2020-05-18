@@ -10,7 +10,7 @@
     <script src="signalr/hubs"></script>
 </head>
 <body>
-   <h2>My Chat application</h2>
+   <h2>My Chat app</h2>
     Enter name:<input id="txtName" type="text" />
     <input id="btnSetName" type="button" value="Set Name" /> <br /><br/>
 
